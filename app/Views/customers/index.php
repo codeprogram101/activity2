@@ -4,7 +4,7 @@
 <section>
     <p>ACCOUNTS</p>
     <h1>Customer Accounts</h1>
-    <p>Sample customer records currently stored in a static PHP array.</p>
+    <p>Customer records retrieved from the database.</p>
 </section>
 <section>
     <h2>Customers</h2>
